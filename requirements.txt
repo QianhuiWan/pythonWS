@@ -1,1 +1,1 @@
-install jupiter notebooks is required
+installing of jupiter notebook is required

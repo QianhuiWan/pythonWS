@@ -1,1 +1,1 @@
-# Some notes from python workshop from FAME
+Some notes from python workshop (FAME)
